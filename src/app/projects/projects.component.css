@@ -1,4 +1,4 @@
-.marked {
+/* .marked {
   border: 2px solid blue;
   animation: marked 500ms ease-out forwards;
 }
@@ -15,7 +15,7 @@
   100% {
     scale: 1;
   }
-}
+} */
 
 .loading-bar {
   width: 200px;
